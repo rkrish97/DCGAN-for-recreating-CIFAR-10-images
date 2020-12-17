@@ -30,9 +30,9 @@ The model is trained with an adam optimizer with a learning rate of 2e-3 and a b
 
 ## Part 2: 
 
-![generator](https://drive.google.com/uc?export=view&id=18RwpQChvU1FLfnCEfMiJKsKklsOkDyTS)
+The generaator was created with the specification provided below with an input latent dimension of 100. The gan model was also created which is the combination of the generator model followed by the discriminator model. 
 
-The generaator was created with the specification provided above with an input latent dimension of 100. The gan model was also created which is the combination of the generator model followed by the discriminator model. 
+![generator](https://drive.google.com/uc?export=view&id=18RwpQChvU1FLfnCEfMiJKsKklsOkDyTS)
 
 ## Part 3: Training the model
 During every epoch of training, following things are happening:
